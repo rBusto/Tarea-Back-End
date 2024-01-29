@@ -1,0 +1,29 @@
+[
+    {
+        "id": "1a2b3c4d5e6f7g8h",
+        "title": "Producto 1",
+        "description": "Descripción del Producto 1",
+        "price": 19.99,
+        "thumbnail": "ruta/imagen1.jpg",
+        "code": "ABC123",
+        "stock": 50
+    },
+    {
+        "id": "9i8h7g6f5e4d3c2b1a",
+        "title": "Producto 2",
+        "description": "Descripción del Producto 2",
+        "price": 29.99,
+        "thumbnail": "ruta/imagen2.jpg",
+        "code": "XYZ789",
+        "stock": 30
+    },
+    {
+        "id": "a1b2c3d4e5f6g7h8",
+        "title": "Producto 3",
+        "description": "Descripción del Producto 3",
+        "price": 39.99,
+        "thumbnail": "ruta/imagen3.jpg",
+        "code": "123ABC",
+        "stock": 20
+    }
+]
